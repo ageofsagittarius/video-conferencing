@@ -1,1 +1,6 @@
 For branch checking
+
+New branch added named newBranch
+
+Commit added1
+Commit added2
