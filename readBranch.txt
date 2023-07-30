@@ -1,1 +1,3 @@
 For branch checking
+
+New branch added named newBranch
